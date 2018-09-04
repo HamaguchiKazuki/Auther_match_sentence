@@ -106,7 +106,10 @@ venv.bak/
 # big files
 *.json
 *.csv
+*.zip
+*.txt
 
 # dotfiles
 .DS_Store
 *.gz
+
